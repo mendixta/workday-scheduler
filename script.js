@@ -8,19 +8,12 @@ $("#3-hour .description").val(localStorage.getItem("3-hour"));
 $("#4-hour .description").val(localStorage.getItem("4-hour"));
 $("#5-hour .description").val(localStorage.getItem("5-hour"));
 
-
-
-
 $(document).ready(function () {
     $(".saveBtn").on("click", function () {
         var text = $(this).siblings(".description").val();
         var time = $(this).parent().attr("id");
-
-       
         localStorage.setItem(time, text);
     })
    
-
-
     timeTracker();
 })
