@@ -29,3 +29,4 @@ There wasn't really much that I did with the CSS, just like with the JavaScript,
 Before even starting on this project, I didn't think it was going to be as time consuming as it actually turned out to be, but when I actually began to work on it, that's when it hit me that this was going to be a not so easy task. I feel like I spent a lot of time experimenting with the code seeing what works and what doesn't, which I learned a couple new tricks by doing so, but I didn't get where I wanted to be when it comes to the final result.
 
 # Screenshot / Final Product:
+<img src = screenshot.png> </img>
