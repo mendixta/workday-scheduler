@@ -7,7 +7,7 @@ For this assignment, we were asked to create a planner for a user who has a busy
 *  The colors red, green, and gray to represent "current, past, and future"
 *  The ability to save tasks even after the webpage was refreshed
 
-The end result was this:
+The end result was this: https://mendixta.github.io/workday-scheduler/
 
 
 # Getting Started: 
